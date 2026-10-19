@@ -1,0 +1,114 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="960" viewBox="0 0 1440 960">
+  <rect width="1440" height="960" fill="#F6F8FB"/>
+  <rect x="0" y="0" width="1440" height="64" fill="#FFFFFF" stroke="#E5E7EB"/>
+  <rect x="24" y="18" width="28" height="28" rx="7" fill="#2563EB"/>
+  <text x="64" y="36" font-family="Arial, Microsoft YaHei, sans-serif" font-size="17" font-weight="700" fill="#111827">字幕检查器</text>
+  <text x="196" y="28" font-family="Arial, Microsoft YaHei, sans-serif" font-size="13" font-weight="600" fill="#111827">企业宣传片_英文版.srt</text>
+  <text x="196" y="47" font-family="Arial, Microsoft YaHei, sans-serif" font-size="11" fill="#6B7280">共 86 条字幕 · 更换文件</text>
+
+  <text x="620" y="29" font-family="Arial, Microsoft YaHei, sans-serif" font-size="11" fill="#6B7280">已发现</text>
+  <text x="620" y="48" font-family="Arial" font-size="16" font-weight="700" fill="#111827">18</text>
+  <text x="710" y="29" font-family="Arial, Microsoft YaHei, sans-serif" font-size="11" fill="#6B7280">已确认</text>
+  <text x="710" y="48" font-family="Arial" font-size="16" font-weight="700" fill="#16A34A">7</text>
+  <text x="800" y="29" font-family="Arial, Microsoft YaHei, sans-serif" font-size="11" fill="#6B7280">待处理</text>
+  <text x="800" y="48" font-family="Arial" font-size="16" font-weight="700" fill="#D97706">8</text>
+  <text x="890" y="29" font-family="Arial, Microsoft YaHei, sans-serif" font-size="11" fill="#6B7280">已忽略</text>
+  <text x="890" y="48" font-family="Arial" font-size="16" font-weight="700" fill="#6B7280">3</text>
+
+  <rect x="1056" y="14" width="40" height="36" rx="6" fill="#FFFFFF" stroke="#E5E7EB"/>
+  <text x="1076" y="37" text-anchor="middle" font-family="Arial" font-size="18" fill="#6B7280">↶</text>
+  <text x="1114" y="37" font-family="Arial, Microsoft YaHei, sans-serif" font-size="12" fill="#D97706">还有 8 项待处理</text>
+  <rect x="1278" y="12" width="138" height="40" rx="7" fill="#2563EB"/>
+  <text x="1347" y="37" text-anchor="middle" font-family="Arial, Microsoft YaHei, sans-serif" font-size="14" font-weight="600" fill="#FFFFFF">导出 SRT</text>
+
+  <rect x="0" y="64" width="220" height="896" fill="#FFFFFF" stroke="#E5E7EB"/>
+  <text x="24" y="104" font-family="Arial, Microsoft YaHei, sans-serif" font-size="15" font-weight="700" fill="#111827">问题列表</text>
+  <text x="24" y="142" font-family="Arial, Microsoft YaHei, sans-serif" font-size="11" fill="#9CA3AF">处理状态</text>
+  <rect x="12" y="158" width="196" height="38" rx="6" fill="#EFF6FF"/>
+  <text x="28" y="182" font-family="Arial, Microsoft YaHei, sans-serif" font-size="13" fill="#2563EB">待确认</text>
+  <text x="188" y="182" text-anchor="end" font-family="Arial" font-size="12" fill="#2563EB">8</text>
+  <text x="28" y="226" font-family="Arial, Microsoft YaHei, sans-serif" font-size="13" fill="#374151">全部问题</text>
+  <text x="188" y="226" text-anchor="end" font-family="Arial" font-size="12" fill="#6B7280">18</text>
+  <text x="28" y="266" font-family="Arial, Microsoft YaHei, sans-serif" font-size="13" fill="#374151">已接受</text>
+  <text x="188" y="266" text-anchor="end" font-family="Arial" font-size="12" fill="#6B7280">7</text>
+  <text x="28" y="306" font-family="Arial, Microsoft YaHei, sans-serif" font-size="13" fill="#374151">已忽略</text>
+  <text x="188" y="306" text-anchor="end" font-family="Arial" font-size="12" fill="#6B7280">3</text>
+  <line x1="24" y1="334" x2="196" y2="334" stroke="#E5E7EB"/>
+  <text x="24" y="370" font-family="Arial, Microsoft YaHei, sans-serif" font-size="11" fill="#9CA3AF">问题类型</text>
+  <text x="28" y="410" font-family="Arial, Microsoft YaHei, sans-serif" font-size="13" fill="#374151">句末标点</text>
+  <text x="188" y="410" text-anchor="end" font-family="Arial" font-size="12" fill="#6B7280">6</text>
+  <text x="28" y="450" font-family="Arial, Microsoft YaHei, sans-serif" font-size="13" fill="#374151">英文句首大写</text>
+  <text x="188" y="450" text-anchor="end" font-family="Arial" font-size="12" fill="#6B7280">4</text>
+  <text x="28" y="490" font-family="Arial, Microsoft YaHei, sans-serif" font-size="13" fill="#374151">多余空格</text>
+  <text x="188" y="490" text-anchor="end" font-family="Arial" font-size="12" fill="#6B7280">3</text>
+  <text x="28" y="530" font-family="Arial, Microsoft YaHei, sans-serif" font-size="13" fill="#DC2626">结构问题</text>
+  <text x="188" y="530" text-anchor="end" font-family="Arial" font-size="12" fill="#DC2626">5</text>
+
+  <rect x="220" y="64" width="940" height="896" fill="#F6F8FB"/>
+  <text x="252" y="112" font-family="Arial, Microsoft YaHei, sans-serif" font-size="22" font-weight="700" fill="#111827">待确认的问题</text>
+  <text x="252" y="138" font-family="Arial, Microsoft YaHei, sans-serif" font-size="12" fill="#6B7280">逐条确认系统建议，原字幕不会被直接覆盖</text>
+  <rect x="806" y="96" width="106" height="36" rx="6" fill="#FFFFFF" stroke="#E5E7EB"/>
+  <text x="859" y="119" text-anchor="middle" font-family="Arial, Microsoft YaHei, sans-serif" font-size="13" fill="#374151">批量忽略</text>
+  <rect x="924" y="96" width="106" height="36" rx="6" fill="#EFF6FF" stroke="#93C5FD"/>
+  <text x="977" y="119" text-anchor="middle" font-family="Arial, Microsoft YaHei, sans-serif" font-size="13" fill="#2563EB">批量接受</text>
+
+  <rect x="252" y="164" width="876" height="250" rx="8" fill="#FFFFFF" stroke="#E5E7EB"/>
+  <rect x="272" y="184" width="18" height="18" rx="3" fill="#FFFFFF" stroke="#9CA3AF"/>
+  <text x="306" y="198" font-family="Arial" font-size="13" font-weight="700" fill="#111827">#12</text>
+  <text x="354" y="198" font-family="monospace" font-size="12" fill="#6B7280">00:00:18,200 → 00:00:21,400</text>
+  <rect x="610" y="181" width="76" height="24" rx="12" fill="#FFFBEB"/>
+  <text x="648" y="197" text-anchor="middle" font-family="Arial, Microsoft YaHei, sans-serif" font-size="11" fill="#D97706">句末标点</text>
+  <rect x="1036" y="181" width="72" height="24" rx="12" fill="#FFFBEB"/>
+  <text x="1072" y="197" text-anchor="middle" font-family="Arial, Microsoft YaHei, sans-serif" font-size="11" fill="#D97706">待确认</text>
+  <text x="276" y="240" font-family="Arial, Microsoft YaHei, sans-serif" font-size="11" fill="#9CA3AF">原字幕</text>
+  <text x="276" y="270" font-family="Arial" font-size="15" fill="#374151">Smart inspection makes the workplace safer.</text>
+  <text x="276" y="312" font-family="Arial, Microsoft YaHei, sans-serif" font-size="11" fill="#9CA3AF">修改后</text>
+  <rect x="272" y="324" width="420" height="38" rx="5" fill="#F0FDF4"/>
+  <text x="284" y="348" font-family="Arial" font-size="15" fill="#166534">Smart inspection makes the workplace safer</text>
+  <rect x="856" y="364" width="96" height="34" rx="6" fill="#FFFFFF" stroke="#E5E7EB"/>
+  <text x="904" y="386" text-anchor="middle" font-family="Arial, Microsoft YaHei, sans-serif" font-size="12" fill="#374151">忽略</text>
+  <text x="798" y="385" text-anchor="middle" font-family="Arial, Microsoft YaHei, sans-serif" font-size="12" fill="#2563EB">手动编辑</text>
+  <rect x="964" y="364" width="144" height="34" rx="6" fill="#2563EB"/>
+  <text x="1036" y="386" text-anchor="middle" font-family="Arial, Microsoft YaHei, sans-serif" font-size="12" font-weight="600" fill="#FFFFFF">接受修改</text>
+
+  <rect x="252" y="438" width="876" height="216" rx="8" fill="#FFFFFF" stroke="#FCA5A5"/>
+  <text x="276" y="474" font-family="Arial" font-size="13" font-weight="700" fill="#111827">#31</text>
+  <text x="326" y="474" font-family="monospace" font-size="12" fill="#6B7280">00:00:44,000 → 00:00:47,000</text>
+  <rect x="580" y="456" width="96" height="24" rx="12" fill="#FEF2F2"/>
+  <text x="628" y="472" text-anchor="middle" font-family="Arial, Microsoft YaHei, sans-serif" font-size="11" fill="#DC2626">时间轴重叠</text>
+  <rect x="276" y="510" width="828" height="82" rx="6" fill="#FEF2F2"/>
+  <text x="296" y="540" font-family="Arial, Microsoft YaHei, sans-serif" font-size="14" font-weight="600" fill="#991B1B">该字幕与下一条字幕重叠 0.4 秒</text>
+  <text x="296" y="568" font-family="Arial, Microsoft YaHei, sans-serif" font-size="12" fill="#B91C1C">结构问题只提示，不会自动修改时间码</text>
+  <text x="1014" y="626" font-family="Arial, Microsoft YaHei, sans-serif" font-size="12" fill="#2563EB">查看原始字幕</text>
+
+  <rect x="1160" y="64" width="280" height="896" fill="#FFFFFF" stroke="#E5E7EB"/>
+  <text x="1184" y="104" font-family="Arial, Microsoft YaHei, sans-serif" font-size="15" font-weight="700" fill="#111827">检查规则</text>
+  <text x="1184" y="130" font-family="Arial, Microsoft YaHei, sans-serif" font-size="11" fill="#6B7280">修改规则后需要重新运行检查</text>
+  <text x="1184" y="174" font-family="Arial, Microsoft YaHei, sans-serif" font-size="11" fill="#9CA3AF">内容规范</text>
+  <text x="1184" y="214" font-family="Arial, Microsoft YaHei, sans-serif" font-size="13" fill="#374151">删除句末标点</text>
+  <rect x="1370" y="198" width="42" height="24" rx="12" fill="#E5E7EB"/>
+  <circle cx="1382" cy="210" r="9" fill="#FFFFFF"/>
+  <text x="1184" y="260" font-family="Arial, Microsoft YaHei, sans-serif" font-size="13" fill="#374151">英文句首大写</text>
+  <rect x="1370" y="244" width="42" height="24" rx="12" fill="#E5E7EB"/>
+  <circle cx="1382" cy="256" r="9" fill="#FFFFFF"/>
+  <text x="1184" y="306" font-family="Arial, Microsoft YaHei, sans-serif" font-size="13" fill="#374151">清理多余空格</text>
+  <rect x="1370" y="290" width="42" height="24" rx="12" fill="#E5E7EB"/>
+  <circle cx="1382" cy="302" r="9" fill="#FFFFFF"/>
+  <line x1="1184" y1="338" x2="1412" y2="338" stroke="#E5E7EB"/>
+  <text x="1184" y="378" font-family="Arial, Microsoft YaHei, sans-serif" font-size="11" fill="#9CA3AF">字幕结构检查</text>
+  <text x="1184" y="418" font-family="Arial, Microsoft YaHei, sans-serif" font-size="13" fill="#374151">检查字幕序号</text>
+  <rect x="1370" y="402" width="42" height="24" rx="12" fill="#2563EB"/>
+  <circle cx="1400" cy="414" r="9" fill="#FFFFFF"/>
+  <text x="1184" y="464" font-family="Arial, Microsoft YaHei, sans-serif" font-size="13" fill="#374151">检查时间码格式</text>
+  <rect x="1370" y="448" width="42" height="24" rx="12" fill="#2563EB"/>
+  <circle cx="1400" cy="460" r="9" fill="#FFFFFF"/>
+  <text x="1184" y="510" font-family="Arial, Microsoft YaHei, sans-serif" font-size="13" fill="#374151">检查空字幕</text>
+  <rect x="1370" y="494" width="42" height="24" rx="12" fill="#2563EB"/>
+  <circle cx="1400" cy="506" r="9" fill="#FFFFFF"/>
+  <text x="1184" y="556" font-family="Arial, Microsoft YaHei, sans-serif" font-size="13" fill="#374151">检查时间轴重叠</text>
+  <rect x="1370" y="540" width="42" height="24" rx="12" fill="#2563EB"/>
+  <circle cx="1400" cy="552" r="9" fill="#FFFFFF"/>
+  <rect x="1184" y="882" width="228" height="44" rx="7" fill="#FFFFFF" stroke="#93C5FD"/>
+  <text x="1298" y="910" text-anchor="middle" font-family="Arial, Microsoft YaHei, sans-serif" font-size="14" font-weight="600" fill="#2563EB">重新运行检查</text>
+</svg>
+

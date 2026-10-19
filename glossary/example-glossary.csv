@@ -1,0 +1,11 @@
+source_term,target_term,action,note,enabled,priority
+思倍云,,protect,公司品牌名保持官方简体写法,true,100
+SmartInspect V2.1,,protect,产品名和版本号保持不变,true,100
+报警信息,告警資訊,replace,客户界面统一使用告警,true,90
+视频监控,影像監控,replace,客户既有模块名称,true,90
+后台,管理平台,suggest,客户将后台统一称为管理平台,true,80
+工单,事件工單,replace,客户指定事件工单命名,true,80
+IT运维人员,IT 維運人員,replace,统一部门岗位称呼,true,80
+点击这里,點選這裡,suggest,客户偏好这里而非此处,true,70
+一键,,warn,台湾版本避免未说明的一键承诺,true,60
+视频,視訊,replace,示例停用条目不参与匹配,false,50

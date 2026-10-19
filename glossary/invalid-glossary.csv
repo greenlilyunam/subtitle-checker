@@ -1,0 +1,10 @@
+source_term,target_term,action,note,enabled,priority
+报警信息,告警資訊,replace,有效条目,true,90
+,軟體,replace,缺少源词,true,80
+后台,,replace,replace 缺少目标词,true,80
+摄像头,攝影機,auto,action 非法,true,70
+数据,資料,replace,priority 超出范围,true,150
+工单,事件工單,replace,冲突示例一,true,80
+工单,維修單,replace,冲突示例二,true,80
+账号,帳號,replace,完全重复条目,true,60
+账号,帳號,replace,完全重复条目,true,60

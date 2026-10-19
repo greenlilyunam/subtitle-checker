@@ -1,0 +1,21 @@
+1
+00:00:01,000 --> 00:00:03,000
+Smart inspection works
+
+2
+00:00:03,500 --> 00:00:06,000
+Access control is active
+
+3
+00:00:06,500 --> 00:00:09,000
+“Welcome to the platform”
+
+4
+00:00:09,500 --> 00:00:12,000
+Line one
+Line two
+
+5
+00:00:12,500 --> 00:00:15,000
+系统已启动 smart inspection
+

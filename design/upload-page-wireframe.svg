@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="960" viewBox="0 0 1440 960">
+  <rect width="1440" height="960" fill="#F6F8FB"/>
+  <rect x="0" y="0" width="1440" height="64" fill="#FFFFFF" stroke="#E5E7EB"/>
+  <rect x="48" y="18" width="28" height="28" rx="7" fill="#2563EB"/>
+  <text x="88" y="36" font-family="Arial, Microsoft YaHei, sans-serif" font-size="18" font-weight="700" fill="#111827">字幕检查器</text>
+  <text x="210" y="36" font-family="Arial, Microsoft YaHei, sans-serif" font-size="12" fill="#6B7280">字幕交付前检查工具</text>
+  <text x="1320" y="36" font-family="Arial, Microsoft YaHei, sans-serif" font-size="14" fill="#2563EB">使用说明</text>
+
+  <text x="720" y="168" text-anchor="middle" font-family="Arial, Microsoft YaHei, sans-serif" font-size="32" font-weight="700" fill="#111827">上传字幕，快速完成交付前检查</text>
+  <text x="720" y="208" text-anchor="middle" font-family="Arial, Microsoft YaHei, sans-serif" font-size="16" fill="#6B7280">自动发现标点、英文大小写、空格和时间轴格式问题，所有修改均由你确认</text>
+
+  <rect x="360" y="266" width="720" height="310" rx="8" fill="#FFFFFF" stroke="#93C5FD" stroke-width="2" stroke-dasharray="10 8"/>
+  <circle cx="720" cy="352" r="32" fill="#EFF6FF"/>
+  <path d="M704 358 L720 342 L736 358 M720 342 L720 382" stroke="#2563EB" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="720" y="424" text-anchor="middle" font-family="Arial, Microsoft YaHei, sans-serif" font-size="20" font-weight="600" fill="#111827">拖放 SRT 文件到这里</text>
+  <text x="720" y="456" text-anchor="middle" font-family="Arial, Microsoft YaHei, sans-serif" font-size="14" fill="#6B7280">或点击选择文件</text>
+  <rect x="644" y="480" width="152" height="44" rx="7" fill="#2563EB"/>
+  <text x="720" y="508" text-anchor="middle" font-family="Arial, Microsoft YaHei, sans-serif" font-size="14" font-weight="600" fill="#FFFFFF">选择 SRT 文件</text>
+  <text x="720" y="550" text-anchor="middle" font-family="Arial, Microsoft YaHei, sans-serif" font-size="12" fill="#6B7280">当前仅支持单个 .srt 文件，文件将在本地处理</text>
+
+  <line x1="442" y1="696" x2="648" y2="696" stroke="#D1D5DB" stroke-width="2"/>
+  <line x1="792" y1="696" x2="998" y2="696" stroke="#D1D5DB" stroke-width="2"/>
+  <circle cx="400" cy="696" r="28" fill="#EFF6FF" stroke="#93C5FD"/>
+  <circle cx="720" cy="696" r="28" fill="#EFF6FF" stroke="#93C5FD"/>
+  <circle cx="1040" cy="696" r="28" fill="#EFF6FF" stroke="#93C5FD"/>
+  <text x="400" y="702" text-anchor="middle" font-family="Arial" font-size="16" font-weight="700" fill="#2563EB">1</text>
+  <text x="720" y="702" text-anchor="middle" font-family="Arial" font-size="16" font-weight="700" fill="#2563EB">2</text>
+  <text x="1040" y="702" text-anchor="middle" font-family="Arial" font-size="16" font-weight="700" fill="#2563EB">3</text>
+  <text x="400" y="750" text-anchor="middle" font-family="Arial, Microsoft YaHei, sans-serif" font-size="14" font-weight="600" fill="#111827">导入 SRT</text>
+  <text x="720" y="750" text-anchor="middle" font-family="Arial, Microsoft YaHei, sans-serif" font-size="14" font-weight="600" fill="#111827">检查并确认修改</text>
+  <text x="1040" y="750" text-anchor="middle" font-family="Arial, Microsoft YaHei, sans-serif" font-size="14" font-weight="600" fill="#111827">导出新字幕</text>
+  <text x="720" y="888" text-anchor="middle" font-family="Arial, Microsoft YaHei, sans-serif" font-size="12" fill="#9CA3AF">文件仅用于当前处理，不会生成账号记录</text>
+</svg>
+

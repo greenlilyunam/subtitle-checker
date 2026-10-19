@@ -1,0 +1,84 @@
+{
+  "entries": [
+    {
+      "source_term": "思倍云",
+      "target_term": "",
+      "action": "protect",
+      "note": "公司品牌名保持官方简体写法",
+      "enabled": true,
+      "priority": 100
+    },
+    {
+      "source_term": "SmartInspect V2.1",
+      "target_term": "",
+      "action": "protect",
+      "note": "产品名和版本号保持不变",
+      "enabled": true,
+      "priority": 100
+    },
+    {
+      "source_term": "报警信息",
+      "target_term": "告警資訊",
+      "action": "replace",
+      "note": "客户界面统一使用告警",
+      "enabled": true,
+      "priority": 90
+    },
+    {
+      "source_term": "视频监控",
+      "target_term": "影像監控",
+      "action": "replace",
+      "note": "客户既有模块名称",
+      "enabled": true,
+      "priority": 90
+    },
+    {
+      "source_term": "后台",
+      "target_term": "管理平台",
+      "action": "suggest",
+      "note": "客户将后台统一称为管理平台",
+      "enabled": true,
+      "priority": 80
+    },
+    {
+      "source_term": "工单",
+      "target_term": "事件工單",
+      "action": "replace",
+      "note": "客户指定事件工单命名",
+      "enabled": true,
+      "priority": 80
+    },
+    {
+      "source_term": "IT运维人员",
+      "target_term": "IT 維運人員",
+      "action": "replace",
+      "note": "统一部门岗位称呼",
+      "enabled": true,
+      "priority": 80
+    },
+    {
+      "source_term": "点击这里",
+      "target_term": "點選這裡",
+      "action": "suggest",
+      "note": "客户偏好这里而非此处",
+      "enabled": true,
+      "priority": 70
+    },
+    {
+      "source_term": "一键",
+      "target_term": "",
+      "action": "warn",
+      "note": "台湾版本避免未说明的一键承诺",
+      "enabled": true,
+      "priority": 60
+    },
+    {
+      "source_term": "视频",
+      "target_term": "視訊",
+      "action": "replace",
+      "note": "示例停用条目不参与匹配",
+      "enabled": false,
+      "priority": 50
+    }
+  ]
+}
